@@ -27,3 +27,4 @@ deploy:
   local_dir: dist/bitcoin
   on:
     branch: development
+    
